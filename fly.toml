@@ -1,4 +1,4 @@
-app = "playwright-renderer"
+app = "crawlers-fr-renderer"
 
 [build]
 
